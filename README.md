@@ -57,15 +57,15 @@ python jarvis.py
 ### Play doraemon
 
 ## ⚠️ Limitations
-Works only with predefined commands
-Uses Google Speech API, so internet is required
-Voice recognition may not be accurate in noisy environments
+- Works only with predefined commands
+- Uses Google Speech API, so internet is required
+- Voice recognition may not be accurate in noisy environments
 
 ## 🔮 Future Improvements
-Add support for more dynamic commands
-Improve accuracy of voice recognition
-Integrate APIs for real-time information (weather, news, etc.)
-Add a simple user interface
+- Add support for more dynamic commands
+- Improve accuracy of voice recognition
+- Integrate APIs for real-time information (weather, news, etc.)
+-Add a simple user interface
 
 Author
 Areeba Makhmoor
