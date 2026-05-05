@@ -50,11 +50,11 @@ python jarvis.py
 
 ## Example Commands
 
-Open Google
-Open YouTube
-Open LinkedIn
-Play perfect
-Play doraemon
+### Open Google
+### Open YouTube
+### Open LinkedIn
+### Play perfect
+### Play doraemon
 
 ## ⚠️ Limitations
 Works only with predefined commands
